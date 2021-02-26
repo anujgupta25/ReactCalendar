@@ -1,0 +1,26 @@
+body{
+ 
+}
+ul.signup{
+  list-style: none;
+  float:right;
+}
+
+.active_class{
+  
+}
+li  a p{
+  color:#fff;
+}
+.btn:active{
+  transform: scale(1.01);
+}
+.backtologin a{
+  text-decoration-style: none;
+  color:rgba(0,0,0,0.7);
+  font-weight:bold;   
+  font-style:underline;
+}
+/* input[type='text'],input[type='email'],input[type='password']{
+  font-size:25px;
+} */

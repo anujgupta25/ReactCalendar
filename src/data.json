@@ -1,0 +1,37 @@
+
+    "users": [
+        
+        {
+            "id": "1",
+            "name": "Anuj gupta",
+            "userid": "anuj@gmail.com",
+            "password": "admin@123",
+            "mobile": "1234567890",
+            "token_id": "cnjfhrlgr4617"
+        },
+        {
+            "id": "2",
+            "name": "Akshay Kumar",
+            "userid": "akshay@gmail.com",
+            "password": "admin@123",
+            "mobile": "2345671589",
+            "token_id": "cnjfhrlgr461b6"
+        },
+        {
+            "id": "3",
+            "name": "Abhishek sharma",
+            "userid": "abhi@gmail.com",
+            "password": "admin@123",
+            "mobile": "4678615526",
+            "token_id": "khfeifh3frfj69"
+        },
+        {
+            "id": "4",
+            "name": "Ram sharma",
+            "userid": "ram@gmail.com",
+            "password": "admin@123",
+            "mobile": "6168718344",
+            "token_id": "lnpdv6f6gr98r"
+        }
+    ]
+}
